@@ -1,0 +1,42 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+This is README file for 'Command line parameters parser (CLPP)' library.
+
+Last update: October 28, 2010
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+COMMAND LINE PARAMETERS PARSER
+version 2.0.1
+
+ABSTRACT
+--------
+
+CLPP library provides parsing of command line parameters, with calling correspond functions and, 
+if necessary, checking type and/or semantic of parameter's value. For more info see documentation.
+
+
+EXTERNAL DEPENDENCIES
+---------------------
+
+Only one - Boost C++ libraries. See documentation.
+
+ 
+PORTABILITY
+-----------
+
+It is portable so far as portable Boost C++ libraries and C++ standard library. :-)
+
+
+DOCUMENTATION
+-------------
+
+See HTML documentation in 'doc' directory or online: http://clp-parser.sourceforge.net
+
+
+MORE INFORMATION
+----------------
+
+Sourceforge page: 	http://clp-parser.sourceforge.net
+Download page:      http://sourceforge.net/projects/clp-parser/
+
+Author's site: 		http://www.cppforum.ru
+ 
